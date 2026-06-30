@@ -137,6 +137,16 @@ Python application for generating AI-powered reels using automation and AI APIs.
 
 ---
 
+## 🎯 2026 Goals
+
+- ✅ Complete 100 Days of Machine Learning
+- ✅ Solve 300+ DSA Problems
+- 🔜 Learn Deep Learning
+- 🔜 Learn NLP
+- 🔜 Learn Computer Vision
+- 🔜 Learn MLOps
+- 🎯 Become an AI/ML Engineer
+
 # 🎯 Goal
 
 Become an AI/ML Engineer by mastering
