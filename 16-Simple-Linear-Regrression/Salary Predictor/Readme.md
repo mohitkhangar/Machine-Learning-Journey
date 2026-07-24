@@ -223,6 +223,23 @@ After completing this project, you will understand:
 - Save model using Pickle
 - Add interactive user interface
 - Use larger real-world datasets
+# 📊 Project Visualizations
+
+## Salary Prediction
+
+![Salary Prediction](salary_prediction_plot.png)
+
+---
+
+## Actual vs Predicted
+
+![Actual vs Predicted](actual_vs_predicted.png)
+
+---
+
+## Residual Plot
+
+![Residual Plot](residual_plot.png)
 
 ---
 
