@@ -1,0 +1,117 @@
+# 🚀 Simple Linear Regression - Code From Scratch
+
+## 📌 Overview
+
+This project demonstrates how **Simple Linear Regression** works by implementing the algorithm completely **from scratch using Python and NumPy**, without relying on machine learning libraries like `scikit-learn`.
+
+The objective is to understand the mathematical intuition behind Linear Regression rather than just using pre-built functions.
+
+---
+
+## 🎯 Objectives
+
+- Understand the mathematics behind Linear Regression
+- Learn how the Best Fit Line is calculated
+- Implement Linear Regression from scratch
+- Predict values using the learned model
+- Visualize the regression line
+- Build a strong foundation for Gradient Descent and Deep Learning
+
+---
+
+## 📚 Concepts Covered
+
+- Simple Linear Regression
+- Best Fit Line
+- Slope (β₁)
+- Intercept (β₀)
+- Mean
+- Variance
+- Covariance
+- Prediction
+- Regression Equation
+
+---
+
+## 🧮 Mathematical Formula
+
+Regression Equation
+
+\[
+y = \beta_0 + \beta_1x
+\]
+
+Where
+
+- **β₀** → Intercept
+- **β₁** → Slope
+- **x** → Input Feature
+- **y** → Predicted Output
+
+---
+
+## ⚙️ Implementation Steps
+
+1. Load the dataset
+2. Calculate Mean of X and Y
+3. Calculate Variance of X
+4. Calculate Covariance between X and Y
+5. Compute Slope (β₁)
+6. Compute Intercept (β₀)
+7. Predict values
+8. Plot the Best Fit Line
+
+---
+
+## 📂 Libraries Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+---
+
+## 📊 Output
+
+The implementation generates:
+
+- Regression Line
+- Predicted Values
+- Model Parameters
+- Visualization of Best Fit Line
+
+---
+
+## 📈 Learning Outcomes
+
+After completing this project, I learned:
+
+- How Linear Regression works internally
+- How slope and intercept are calculated
+- Difference between theory and library implementation
+- Mathematical intuition behind the Best Fit Line
+- Foundation required for Gradient Descent and Advanced Regression Algorithms
+
+---
+
+## 🚀 Future Scope
+
+This project serves as the foundation for learning:
+
+- Gradient Descent
+- Batch Gradient Descent
+- Stochastic Gradient Descent
+- Mini Batch Gradient Descent
+- Multiple Linear Regression
+- Polynomial Regression
+- Logistic Regression
+- Neural Networks
+
+---
+
+## ⭐ Author
+
+**Mohit Khangar**
+
+Machine Learning Journey 🚀
